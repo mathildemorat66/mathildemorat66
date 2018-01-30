@@ -1,0 +1,40 @@
+h1 { 
+	color: #8E5572 !important; 
+	font-size: 40px !important;font-family: zapfino !important;
+}
+h2 {
+	color: #8E5572 !important;
+	font-size:18px !important; font-family:helvetica !important; font-weight:lighter; font-style:italic;
+}
+p {
+	color: #88665D;
+	font-size :15px; font-family:helvetica; font-weight: lighter;
+}
+.first-paragraph{
+	background-color: #C2B97F;
+	text-align: center;
+	border: solid #8E5572;
+	border-radius: 20px;
+}
+body {
+	background-color: #F2F7F2; 
+}
+.shadow {
+	border-radius: 20px;
+	box-shadow: 5px 8px 50px black;
+}
+#facebook {
+	font-size: 50px;
+	color: #8E5572;
+}
+#twitter {
+	font-size:50px;
+	color: #8E5572;
+}
+#paragraphe1 {
+	font-weight: bold;
+}
+.list-inline {
+	color:#8E5572;
+	font-weight: bold;
+}
