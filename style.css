@@ -3,6 +3,10 @@ h1 {
 	font-size: 40px !important;font-family: zapfino !important;
 }
 h2 {
+	box-shadow: 5px 8px 50px black;
+}
+
+#paragraphe1 {
 	color: #8E5572 !important;
 	font-size:18px !important; font-family:helvetica !important; font-weight:lighter; font-style:italic;
 }
@@ -21,11 +25,6 @@ body {
 }
 .shadow {
 	border-radius: 20px;
-	box-shadow: 5px 8px 50px black;
-}
-
-
-#paragraphe1 {
 	font-weight: bold;
 }
 .list-inline {
@@ -84,4 +83,21 @@ body {
 }
 .footer .fa-heart {
   color: #8E5572;
+}
+
+.logo {
+	position: absolute;
+	left : 30px;
+	top : 30px;
+	width: 100px;
+	height: 100px;
+}
+
+.list-inline2{
+	position: absolute;
+	right: 30px;
+	top: 30px;
+	display: flex;
+
+  	;
 }
